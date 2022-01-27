@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ygortg
-- 👀 I’m interested in Backend career, but also Frontend development
-- 🌱 I’m currently learning more about JS and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ygort97@gmail.com
+[![Linkedin Badge](https://www.linkedin.com/in/ygor-torres-b46118200/)
+- Olá! Sou @ygortg
+- Sou estudante de Engenharia da computação pela Unicarioca
+
+Apaixonado nos estudos de desenvolvimento web nas principais linguagens HTML, CSS e JavaScript
 
 <!---
 ygortg/ygortg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
