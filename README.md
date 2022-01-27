@@ -1,4 +1,3 @@
-[![Linkedin Badge](https://www.linkedin.com/in/ygor-torres-b46118200/)
 - Olá! Sou @ygortg
 - Sou estudante de Engenharia da computação pela Unicarioca
 
