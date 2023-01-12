@@ -20,7 +20,7 @@ Sempre busco conhecer novas línguas e culturas, estando atualmente aprendendo M
   <img align="center" alt="ygor-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="center" alt="ygor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="ygor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ca/8b/1e/ca8b1eee138a4f5c712811a65f852c85.gif">
+  <img align="right" alt="ygor-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/ca/8b/1e/ca8b1eee138a4f5c712811a65f852c85.gif">
 </div>
   
   
